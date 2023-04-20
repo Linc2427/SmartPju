@@ -1,0 +1,78 @@
+[05-Nov-2022 16:13:52 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smaw8666/public_html/smartpju/koneksi.php on line 6
+[05-Nov-2022 16:35:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smaw8666/public_html/smartpju/koneksi.php on line 6
+[05-Nov-2022 16:37:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smaw8666/public_html/smartpju/koneksi.php on line 6
+[26-Nov-2022 01:24:02 Asia/Jakarta] PHP Warning:  require(koneksia.php): failed to open stream: No such file or directory in /home/smaw8666/public_html/smartpju/index.php on line 2
+[26-Nov-2022 01:24:02 Asia/Jakarta] PHP Warning:  require(koneksia.php): failed to open stream: No such file or directory in /home/smaw8666/public_html/smartpju/index.php on line 2
+[26-Nov-2022 01:24:02 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'koneksia.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/smaw8666/public_html/smartpju/index.php on line 2
+[26-Nov-2022 01:26:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/smaw8666/public_html/smartpju/index.php on line 191
+[26-Nov-2022 01:44:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smaw8666/public_html/smartpju/index.php on line 4
+[26-Nov-2022 01:47:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smaw8666/public_html/smartpju/index.php on line 451
+[26-Nov-2022 01:48:11 Asia/Jakarta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smaw8666/public_html/smartpju/index.php on line 4
+[26-Nov-2022 01:52:28 Asia/Jakarta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/smaw8666/public_html/smartpju/index.php on line 4
+[26-Nov-2022 02:00:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/smaw8666/public_html/smartpju/index.php on line 465
+[28-Nov-2022 23:12:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/smaw8666/public_html/smartpju/index.php on line 218
+[28-Nov-2022 23:12:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/smaw8666/public_html/smartpju/index.php on line 218
+[28-Nov-2022 23:13:48 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/smaw8666/public_html/smartpju/emboh.php on line 50
+[28-Nov-2022 23:13:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smaw8666/public_html/smartpju/emboh.php on line 56
+[28-Nov-2022 23:13:48 Asia/Jakarta] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, null given in /home/smaw8666/public_html/smartpju/emboh.php on line 58
+[28-Nov-2022 23:15:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/smaw8666/public_html/smartpju/emboh.php on line 47
+[29-Nov-2022 16:19:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/smaw8666/public_html/smartpju/index.php on line 236
+[29-Nov-2022 16:19:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/smaw8666/public_html/smartpju/index.php on line 236
+[29-Nov-2022 16:19:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/smaw8666/public_html/smartpju/index.php on line 236
+[29-Nov-2022 16:29:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:29:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:29:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:29:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:29:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:30:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:30:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:30:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:30:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:30:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:30:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:31:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:31:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$V' (T_VARIABLE), expecting ';' or ',' in /home/smaw8666/public_html/smartpju/index.php on line 259
+[29-Nov-2022 16:31:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smaw8666/public_html/smartpju/index.php on line 543
+[29-Nov-2022 16:31:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/smaw8666/public_html/smartpju/index.php on line 543
+[02-Dec-2022 14:19:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/smaw8666/public_html/smartpju/emboh.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/smaw8666/public_html/smartpju/emboh.php on line 30
+[02-Dec-2022 14:20:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/smaw8666/public_html/smartpju/emboh.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/smaw8666/public_html/smartpju/emboh.php on line 30
+[02-Dec-2022 14:20:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/smaw8666/public_html/smartpju/emboh.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/smaw8666/public_html/smartpju/emboh.php on line 30
+[02-Dec-2022 14:21:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/smaw8666/public_html/smartpju/emboh.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/smaw8666/public_html/smartpju/emboh.php on line 30
+[02-Dec-2022 14:21:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/smaw8666/public_html/smartpju/emboh.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/smaw8666/public_html/smartpju/emboh.php on line 30
+[02-Dec-2022 14:25:35 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:25:37 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:01 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:03 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:03 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:03 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:03 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:04 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:04 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:11 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:12 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:12 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:12 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:26:13 Asia/Jakarta] PHP Fatal error:  Cannot use try without catch or finally in /home/smaw8666/public_html/smartpju/cek.php on line 11
+[02-Dec-2022 14:28:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/smaw8666/public_html/smartpju/cek.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/smaw8666/public_html/smartpju/cek.php on line 27
+[02-Dec-2022 14:28:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/smaw8666/public_html/smartpju/cek.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/smaw8666/public_html/smartpju/cek.php on line 27
